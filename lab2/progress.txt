@@ -1,0 +1,151 @@
+Try #1
+Use key: "the "
+Founds:
+#35 :  the mgx(k-d%1,c5$uj<:o `;nhthe twt"!u6 ÈP­
+#36 :  that$yj3n-d2tai!mn,55,1$<kn{;ny--$p68~6h1nG°
+#37 :  when$ango!g51`jsisk2',-%h>qy=yy0'$i68~m0Õ¼ÄÀ
+#38 :  with$h+%f:of6ch8mt3zd*llqu`0<k$&`a; ;'!pv(Î
+#39 :  to gv|e3')d"t{6en,/=h >; {1}<thm167n7µÎÙË
+#40 :  but paj3'<b#th~6e~,55,6#v{td=rje5bp2!;!!pplu´
+#41 :  the qgo.t+e01~it`:o5&b1>b2 j&s`e#lk$6;'+dvjÍ
+#42 :  no tvh}"k$o4t~i'qhb),59adli'<y-1$s>?wi¢
+#43 :  and ih`"th5t~m'l~z1i$>;jhc'y-,8hww$~e,praØ
+#44 :  than$og>'<ef;xd6vi,.;m1ll{ g:sze:kpw<}z Ìß¥
+#45 :  thus$jd)t+c#:ois`ux2sa$'~>cc#}!'$k1sn6dphhu¢
+#46 :  and pa~4'<b#tbm'mliz;y ltx ~1ob)!pm8=)Xåïj
+#47 :  is smj`+n-nf;+i!$me.;,1$~>pm8y-&5wpw<}e0ykq>0ÊÌ
+#48 :  and ag"u8x/'isk|,=!i$8;nix<<l+0$i8>~+0$kõ
+#49 :  with$}c.thx#3m~7$nd?:~e/nlri:h~e qv9sz26h/¿84
+#50 :  and hfx"'<b#tbm>a:c<sm&8rqn"à >x$øøë§¡Õä¼
+#51 :  that=vw;qhe71%o4=s#){+tds|e3;ny--;a4mceH
+#52 :  when=nsopdf0t$lf9nd.i+he')z1=yy0';x4mc>
+#53 :  with=g6-yncs'n-=i<fJco,#f~(0<k$&p9u&tÖ
+#54 :  to gosx;8le'1;}#5s#3soe~th+31}<tw|3c*=
+#55 :  but inw;8yc&1,x#5c#){+sc9l,=rje5}a0t&rÐYÃ
+#56 :  the hhr&knd5t:oa0'`)het~-%+"&s`e#sz&c&tÖ_
+#57 :  no tog`*tan11:o2!um51+py.sg!'<y-1;b<jj:
+#58 :  and pg}*k-~01:k2<bqfna~t}c+'y-,8wfuqc6ÒT
+#59 :  than=`z68ydc~<b#&t#2ujt,#l+/:sze:taui`)
+#60 :  thus=ey!knb&+of0hw.=fag1)h+#}!';z3&seDÈ]Ã
+#61 :  and inc<8yc&1&k2=qffu~e,;o+61ob)!o|:h4                  !!!!
+#62 :  is ste}#qhoc~oo4tpj2u+td1){%8y-&5haui`6ËDé¾J
+#63 :  and xhb*j}y*b-yf;a#!onaxtyb0<<l+0;x:kcx
+#64 :  with=r~&k-y&v)x"tsk#ty o!{y!:h~e ng;&ga
+#65 :  and qie*8yc&1&k+1'l =jcx=fejà >x5ú­öÂ
+#116 :  but un`='b31~rbq,& g&b=`!1.oio bf~6chc*`nc
+#126 :  no tsgw,kgo$1hese:h<-&a'w>)#u'|hf }:}$+
+#127 :  and lgj,t+%1hasx-toccp -0-)ub(iolysf-''`ln
+#128 :  than!`m0'ev~nhbb;&;igerz!e-hh mo~s~.8Ò
+#129 :  thus!en'thc3ye't'r'!kp9hd&)qfzdp e51=to`vg
+#130 :  and unt:'b31tasy>coistrb"e4ctglvtc<zîÿt   !!!
+#131 :  is shej%nnnv~=eu0?o;i&e:hd5'jb(cbs~s~.';iu~ÓÖ."
+#132 :  and dhu,u{x?bs'.&(scp&-4,2n'ing g<|-i;4d
+#133 :  with!ri t+x3v{rc0<n*ht11x67#hs{ wux=1)p=x1°
+#134 :  and mir,'b31tajuhi)!gr&d++hÃû%{/*üº¸Ó¬±Ëë
+
+
+Try #2  from #61 line
+Use key "and include "
+Found
+#63 :  the endfkqy*w+xf&g%mnbaxac0!:jg17x:~ey
+
+Try #3  from #130 line
+Use key "and until"
+Found
+#130 :  the thes?viweij'd:g!y;d<b#luyx"9lhopj|îþr
+
+Try #4
+Use key "and "
+Found
+15 :  for shedqc%v+ueozd3{n%#)w}')/k*%=j ~eyt;+¥ÚÇÍ
+#57 :  {i!tzaa*ago1$<n24sl5$-qy;uf!2:x-$=c<l;
+#85 :  wan/*fo"t(o$yh5bct/y$nt23v{}o5{p-y.}gg}Â¡
+
+...
+Try
+Used key "the enterprise"
+Found
+#63 :  and insolence h.*)#oocv(rxtu<<l+!=im{oY
+
+Try
+Used key "and insolence "
+Found
+#2 :    sis who would lm%=/|ri)>&k{7a{b!in`ulenÕøï
+#35 :   and pangs of dg{4=fr=h)%!tnhand iqbm9x=CTØ½           !!!  "and pangs of death"
+#52 :   bndn he himselh()&h`n,a ="z1(x0:=n{un5
+#56 :   and undiscoverk/ olgob};7.+"3uae>uli{+H [
+#58 :   the makes us ro|,*}(xih;nvc+2,,%qp:in=OP
+#60 :   ants conscienck(  {`:ah"+"h+6{~!:=l|>~nY
+#63 :   the enterprise}(+)/ohih=nrb0):m+-=nusnsS
+#64 :   bouh this rega|ld;gms~)*;py!/ne=hqt>jjU
+#161 :  is stemp%tb&*ieh-!e:s:}-d%53hx+/}in m1S¶ó!ï\è'
+
+Try
+Used key "and pangs of death"
+Found
+#1 :  sis who would nwehio!e kfqr, z`!dzcl==2*n*1l+Ü
+#18 :  an&oppressor's,evu'|e ttk8r-onje)hn$<s"eo8du'Ý
+#35 :  and insolence ct$u/} ce0.yl; of dzpv==2NE×·
+#36 :  an`t patient mi`mnit/ tt)ml(oiz-=)tb$62&!T{ª
+#37 :  bndn he himselj2is.s= hu}8s*i~z07)mb$6i~ÅôÚ
+#38 :  bouh a bare bohymtv;ho<yww3d;h$6meo<s#o`>=
+#39 :  ai!grunt and s{wenin'den.y"(ez|<deie*jyýÛÑ
+#40 :  wsu that the d~we~it/ ssc}v7iuie%otf=s%o`8y4®
+#41 :  and undiscoveri5`:*t<ntnw4"9rtce3aop*s#et>
+#42 :  {i!traveller rifqh'he pitbn:s;z-!)wj#?mTÅÌ¸
+#47 :  |u!sicklied o'i`$m o! ttk8r>l~.&%zt# 5a~i#d*ÅÚ   !!!
+#48 :  the enterprise2k|i|;eah.hk+h;o+ )ml"6/~4R~Rï
+#49 :  bouh this rega~v$n!~ r {jp:no}e0|rmo26xxgªy.
+#167 :  is sumvn:1c#o-a~1?&s&%7lm!y<ök8)5û¬¶ù¼åãÑï
+
+
+Try
+Used key "bndn he himself "
+Found
+#37 :  and pangs of disuj|s,-%t?y*,}z01"hxl~m0É½Ñ
+
+Try
+Used key "and pangs of distress "
+Found
+#41 :  and undiscovere'` of!*5prz5+<|ve8b.`+ 6yum|Í
+#43 :  the makes us ratle~)6! p+"}"=v;,#f239et~aiwØ
+#44 :  an`n fly to othevs,}<%5"|35& |le!e53!fkRß°
+#47 :  |u!sicklied o'er$we}<d5jnve,"v;&.y53!ftbhpg>%ÌÍ
+#48 :  the enterprises kf,n&! v+&|9&3z++*,|#e:b5}à
+#49 :  bouh this regard$tdl=6aa~$g( ghe;3}na#dy4©8!
+
+
+key "the enterprises kf"
+#48 :  and pangs of distr=u0!$v;c~(:=zn7lg~>~+05zVó
+#90 :  bndn he himself ii3gcels'5jqs,f~d khrh#
+#147 :  the makes us ratle&/u ehtaski,2b{lu)nh+<1~   !!!
+#158 :  ants conscience `o g7(eq15xkm(`od io9xxt1w
+#168 :  bouh this regard$t<j~7$y!giat=a+cutg9l|&)
+#169 :  the lose the nama ;i7$gn=zu*ßµ?p;&¦²ýß·
+
+key "the makes us rattle "
+#147 :  the enterprises so7gdhe&mej~he4t(>;nl+<  o
+#148 :  bouh this regard<}e$18gqon1&:8k`:#h2:l5»
+#149 :  the lose the namy)xf6lg&$zm$Å¹xa`2û¨ù«¥Ïà !!!
+
+
+key  "the lose the name of action"
+#149 :  the makes us rather bear thaÂñh2, êüáîñÉä !!!! => search in google
+https://www.sparknotes.com/nofear/shakespeare/hamlet/page_140/  No Fear Shakespeare: Hamlet
+
+#169 :  the enterprises of great pizÙ´)5$R>¥æáÒò
+#170 :  bouh this regard their currkßà;{4!¤«åËôé
+#164 :  the thus the native hue of |Ôç'75:¥å
+#160 :  ants conscience doth make caÆõ:?3R<¬«ñÏ¦ñÓí¤
+#155 :  an`n fly to others that we eßû?{.'êäâ
+
+
+key "And makes us rather bear those ills we have"
+#143 :  Than fly to others that we know not of?DÈ
+#144 :  Thus conscience doth make cowards of us allì
+#145 :  And thus the native hue of resolution2¡þn
+#146 :  Is sicklied o'er with the pale cast of thou§Ê#g
+#147 :  And enterprises of great pith and moment5o
+#148 :  With this regard their currents turn awry+»
+
+Finish
