@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lab56</title>
+    <link rel="stylesheet" type="text/css" href="/html/style.css">
+</head>
+<body>
+<b>You have successfully logged in!</b>
+<br>
+<br>
+<br>
+<br>
+<b>Personal Information</b>
+<br>
+<br>
+<b>Username: </b>{username}
+<br>
+<b>Phone number: </b>{phonenumber}
+<br>
+<b>Address: </b>{address}
+<br>
+<br>
+<br>
+<br>
+You can update your personal data using the following form
+<br>
+<br>
+<form action="/updatepersonalinfo" method="post">
+    <div class="labelinfo"><label><b>Username</b></label></div>
+    <input type="text" name="Username" placeholder="Username" value="{username}" readonly>
+    <br><br>
+    <div class="labelinfo"><label><b>Phone number</b></label></div>
+    <input type="text" name="Phone" placeholder="Phone Number" value="{phonenumber}">
+    <br><br>
+        <div class="labelinfo"><label><b>Address</b></label></div>
+    <input type="text" name="Address" placeholder="Address" value="{address}">
+    <br><br>
+    <button type="submit" id="Submit">Update personal information</button>
+    <br><br>
+    <br>
+</form>
+
+<br><br><br><br>
+Please click <a href="/">here</a> to open login page again.
+</body>
+</html>
